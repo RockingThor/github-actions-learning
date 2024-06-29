@@ -20,3 +20,5 @@ jobs:
             We will look into it shortly.
 
             Cheers!
+        env:
+          token: ${{ secrets.TOKEN }}
